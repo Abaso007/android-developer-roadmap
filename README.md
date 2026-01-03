@@ -49,10 +49,6 @@ If you'd like to get notified as we release future posts, join the **[watchers](
 
 [Manifest Android Interview](https://www.android.skydoves.me/) is a comprehensive guide designed to enhance your Android development expertise through 108 interview questions with detailed answers, 162 additional practical questions, and 50+ "Pro Tips for Mastery" sections. The interview questions primarily focus on Android development—including the Framework, UI, Jetpack Libraries, and Business Logic—as well as Jetpack Compose, covering Fundamentals, Runtime, and UI.
 
-<a href="https://github.com/doveletter">
-<img src="https://github.com/user-attachments/assets/3ecd2a7b-9713-40cd-8817-fa568271cefa" width="13%" align="right"/>
-</a>
-
 <a href="https://kotlin.skydoves.me/">
 <img src="https://github.com/user-attachments/assets/85476c0d-d060-4d66-ad64-33678113d386" width="13%" align="right"/>
 </a>
@@ -60,6 +56,10 @@ If you'd like to get notified as we release future posts, join the **[watchers](
 ## 📙 Practical Kotlin Deep Dive Book
 
 [Practical Kotlin Deep Dive](https://kotlin.skydoves.me/) takes you from “how to use Kotlin” into “how Kotlin really works,” revealing the internal implementations, desmifying bytecodes and compiler behavior, and internals that shape the language. If you want to write smarter, more confident Kotlin across fundamentals, coroutines, and multiplatform, this is the book that shows you why everything is the way it is.
+
+<a href="https://github.com/doveletter">
+<img src="https://github.com/user-attachments/assets/3ecd2a7b-9713-40cd-8817-fa568271cefa" width="13%" align="right"/>
+</a>
 
 ## 🕊️ Dove Letter
 
