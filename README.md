@@ -53,6 +53,14 @@ If you'd like to get notified as we release future posts, join the **[watchers](
 <img src="https://github.com/user-attachments/assets/3ecd2a7b-9713-40cd-8817-fa568271cefa" width="13%" align="right"/>
 </a>
 
+<a href="https://kotlin.skydoves.me/">
+<img src="https://github.com/user-attachments/assets/85476c0d-d060-4d66-ad64-33678113d386" width="13%" align="right"/>
+</a>
+
+## 📙 Practical Kotlin Deep Dive Book
+
+[Practical Kotlin Deep Dive](https://kotlin.skydoves.me/) takes you from “how to use Kotlin” into “how Kotlin really works,” revealing the internal implementations, desmifying bytecodes and compiler behavior, and internals that shape the language. If you want to write smarter, more confident Kotlin across fundamentals, coroutines, and multiplatform, this is the book that shows you why everything is the way it is.
+
 ## 🕊️ Dove Letter
 
 If you're eager to dive deeper into Kotlin and Android, explore [Dove Letter](https://github.com/doveletter), a private subscription repository where you can learn, discuss, and share knowledge. To get more details about this unique opportunity, check out the [Learn Kotlin and Android With Dove Letter](https://medium.com/@skydoves/learn-kotlin-and-android-with-dove-letter-26265da11903) article.
@@ -60,10 +68,6 @@ If you're eager to dive deeper into Kotlin and Android, explore [Dove Letter](ht
 <a href="https://getstream.io/tutorials/android-chat?utm_source=github&utm_medium=referral&utm_content=&utm_campaign=Jaewoong_github_2025">
 <img src="https://user-images.githubusercontent.com/24237865/138428440-b92e5fb7-89f8-41aa-96b1-71a5486c5849.png" align="right" width="12%"/>
 </a>
-
-## ⛴ Stream
-
-If you're interested in building a robust chat, video/audio calls, or livestreaming feature, which is an easy-to-use, open-sourced, Kotlin-first, actively maintained, check out the __[Stream Chat for Android](https://getstream.io/tutorials/android-chat?utm_source=github&utm_medium=referral&utm_content=&utm_campaign=Jaewoong_github_2025)__ and __[Stream Video SDK for Compose](https://getstream.io/video/sdk/android/tutorial/video-calling?utm_source=github&utm_medium=referral&utm_content=&utm_campaign=Jaewoong_github_2025)__.
 
 ## 🗺 Kotlin Multiplatform Developer Roadmap
 
